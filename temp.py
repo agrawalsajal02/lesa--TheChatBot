@@ -23,7 +23,7 @@ if __name__ == '__main__':
             speak_text_cmd('hello dear , How may i help you')
             continue
         elif 'name' in voice_note and 'your' in voice_note:
-            speak_text_cmd('My name is sexy ! i want to sex with you. i belongs to the dark part of forest . i am hungry for sex . can you feed my hunger. please help me..')
+            speak_text_cmd('My name is sexy !')
             speak_text_cmd('next command')
             continue
         elif 'know' in voice_note and 'about me' in voice_note:
